@@ -1,0 +1,326 @@
+{
+    "utilisateurs": {
+        "hibahedil8@gmail.com": {
+            "nom": "HIBA",
+            "prenom": "hedil",
+            "email": "hibahedil8@gmail.com",
+            "mot_de_passe": "1234",
+            "telephone": "+216 51570032",
+            "societe": {
+                "pays_enregistrement": "France",
+                "forme_juridique": "En cours d'immatriculation",
+                "numero_siren_siret": "",
+                "numero_tva": "",
+                "chambre_metiers": "",
+                "ville_rcs": "",
+                "code_ape": ""
+            }
+        },
+        "1": {
+            "nom": "HIBA",
+            "prenom": "Hedil",
+            "email": "1",
+            "mot_de_passe": "1",
+            "telephone": "+33 767836187",
+            "societe": {
+                "nom_entreprise": "SAS",
+                "slogan": "",
+                "adresse_siege": "",
+                "fuseau_horaire": "Europe/Paris",
+                "pays_enregistrement": "Espagne",
+                "forme_juridique": "EIRL",
+                "numero_siren_siret": "5454",
+                "numero_tva": ",l54564",
+                "chambre_metiers": "2",
+                "ville_rcs": "Toulon",
+                "code_ape": ""
+            }
+        }
+    },
+    "clients": {
+        "hibahedil8@gmail.com": [
+            {
+                "nom_societe": "HIBA ",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "HIBA ",
+                "prenom": "AZIZ",
+                "email": "aziz@gmail.com",
+                "num_tel": "",
+                "cp": "06800",
+                "num_rue": "8",
+                "nom_rue": "avenue des ch\u00eanes",
+                "ville": "Cagnes sur mer",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Larousi",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "Larousi",
+                "prenom": "Mourad",
+                "email": "mourad78\u00e0hotmail.com",
+                "num_tel": "0784523651",
+                "cp": "75000",
+                "num_rue": "4",
+                "nom_rue": "Avenue de libert\u00e9",
+                "ville": "Paris",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Bennour",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "Bennour",
+                "prenom": "Amine",
+                "email": "amineben12@yahoo.fr",
+                "num_tel": "",
+                "cp": "06000",
+                "num_rue": "74",
+                "nom_rue": "Boulevard Jean jaur\u00e9s",
+                "ville": "Nice",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "KHADHRAOUI",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "KHADHRAOUI",
+                "prenom": "Firas",
+                "email": "firas8474@gmail.com",
+                "num_tel": "",
+                "cp": "7080",
+                "num_rue": "12",
+                "nom_rue": "Rue de France",
+                "ville": "Bizerte",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "KAABOURI",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "KAABOURI",
+                "prenom": "Hassen",
+                "email": "hassenkaabouri@gmail.com",
+                "num_tel": "",
+                "cp": "13622",
+                "num_rue": "587",
+                "nom_rue": "Avenue de charles V",
+                "ville": "Marseille",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Zamouri",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "Zamouri",
+                "prenom": "Alaa Eddine",
+                "email": "aloulou12@gmail.com",
+                "num_tel": "",
+                "cp": "83130",
+                "num_rue": "657",
+                "nom_rue": "Av du 1er BIMP",
+                "ville": "La Garde",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Test ",
+                "numero_siret": "",
+                "genre": "",
+                "nom": "Test ",
+                "prenom": "1",
+                "email": "test1@gmail.com",
+                "num_tel": "",
+                "cp": "06200",
+                "num_rue": "1",
+                "nom_rue": "Avenue de liberaton",
+                "ville": "Cros de cagnes",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Test",
+                "numero_siret": "",
+                "genre": "",
+                "nom": "Test",
+                "prenom": "2",
+                "email": "test2@gmail.com",
+                "num_tel": "",
+                "cp": "84000",
+                "num_rue": "45",
+                "nom_rue": "Bd George",
+                "ville": "La Valette",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "",
+                "numero_siret": "",
+                "genre": "M",
+                "nom": "Test",
+                "prenom": "3",
+                "email": "test3@gmail.com",
+                "num_tel": "",
+                "cp": "85000",
+                "num_rue": "54",
+                "nom_rue": "Rue de france",
+                "ville": "La Farl\u00e9de",
+                "pays": "France"
+            },
+            {
+                "nom_societe": "Test ",
+                "numero_siret": "",
+                "genre": "",
+                "nom": "Test ",
+                "prenom": "4",
+                "email": "test4@gmail.com",
+                "num_tel": "",
+                "cp": "",
+                "num_rue": "",
+                "nom_rue": "",
+                "ville": "",
+                "pays": "France"
+            }
+        ],
+        "1": [
+            {
+                "nom_societe": "test",
+                "numero_siret": "",
+                "genre": "",
+                "nom": "test",
+                "prenom": "",
+                "email": "",
+                "num_tel": "",
+                "cp": "",
+                "num_rue": "",
+                "nom_rue": "",
+                "ville": "",
+                "pays": "France"
+            }
+        ]
+    },
+    "ouvrages": {
+        "hibahedil8@gmail.com": [
+            {
+                "designation": "fff",
+                "prix_achat": "4",
+                "prix_vente": "4",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0001"
+            },
+            {
+                "designation": "ffhyhj",
+                "prix_achat": "45",
+                "prix_vente": "22",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0002"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "",
+                "prix_vente": "",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0003"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "12",
+                "prix_vente": "40",
+                "unite": "m\u00b2",
+                "tva": "Aucune",
+                "reference": "REF0004"
+            },
+            {
+                "designation": "jdfjkdfd",
+                "prix_achat": "20",
+                "prix_vente": "40",
+                "unite": "m\u00b3",
+                "tva": "TVA 20%",
+                "reference": "REF0005"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "20",
+                "prix_vente": "50",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0006"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "63",
+                "prix_vente": "98",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0007"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "54",
+                "prix_vente": "96",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0008"
+            },
+            {
+                "designation": "test5",
+                "prix_achat": "2",
+                "prix_vente": "10",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0009"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "25",
+                "prix_vente": "65",
+                "unite": "cns",
+                "tva": "Aucune",
+                "reference": "REF0010"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "",
+                "prix_vente": "",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0011"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "",
+                "prix_vente": "",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0012"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "",
+                "prix_vente": "",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0013"
+            },
+            {
+                "designation": "test",
+                "prix_achat": "",
+                "prix_vente": "",
+                "unite": "u",
+                "tva": "Aucune",
+                "reference": "REF0014"
+            }
+        ],
+        "1": [
+            {
+                "designation": "pr\u00e9paration de la chappe ",
+                "prix_achat": "20",
+                "prix_vente": "40",
+                "unite": "m\u00b2",
+                "tva": "TVA 20%",
+                "reference": "REF0001"
+            }
+        ]
+    }
+}
